@@ -578,6 +578,7 @@ Access and analyze application monitoring data. Enables AI models to review erro
 
 Provides the ability to handle multimedia, such as audio and video editing, playback, format conversion, also includes video filters, enhancements, and so on
 
+- [Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) 📇 🏠 - MIT-licensed, local-first TypeScript CLI and MCP toolkit for agent-driven video composition and editing with editable plan.json timelines.
 - [video-creator/ffmpeg-mcp](https://github.com/video-creator/ffmpeg-mcp.git) 🎥 🔊 - Using ffmpeg command line to achieve an mcp server, can be very convenient, through the dialogue to achieve the local video search, tailoring, stitching, playback and other functions
 
 ### 🔎 <a name="search"></a>Search & Data Extraction
